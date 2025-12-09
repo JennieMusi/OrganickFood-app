@@ -17,6 +17,8 @@ const About = () => {
             <img src="2 (3).png" alt="" />
 
             <button className='bg-[#274C5B] font-[Roboto] radius-[16px] gap-[10px]'>Explore Now</button>
+
+            <button className='bg-[#274C5B] font-[Roboto] radius-[16px] gap-[10px]'>Explore Now</button>
         </div>
       </div>
     </div>
